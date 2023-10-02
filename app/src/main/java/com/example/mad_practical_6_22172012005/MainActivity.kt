@@ -1,4 +1,4 @@
-package com.example.mad_practical_6_22172012005
+package com.example.mad_practical_6_22172012004
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
